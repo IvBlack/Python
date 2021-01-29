@@ -1,2 +1,2 @@
 # python
-The main algorithms on Python.
+Some scripts & algorithms on Python.
